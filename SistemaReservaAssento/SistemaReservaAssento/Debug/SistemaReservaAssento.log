@@ -1,0 +1,11 @@
+﻿  SistemaReservaAssento.cpp
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(128): warning C4101: 'opcao': unreferenced local variable
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(229): warning C4101: 'j': unreferenced local variable
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(229): warning C4101: 'i': unreferenced local variable
+c:\users\roberto honda\documents\visual studio 2015\projects\sistemareservaassento\sistemareservaassento\sistemareservaassento.cpp(297): warning C4018: '<': signed/unsigned mismatch
+  SistemaReservaAssento.vcxproj -> C:\Users\Roberto Honda\Documents\Visual Studio 2015\Projects\SistemaReservaAssento\Debug\SistemaReservaAssento.exe
+  SistemaReservaAssento.vcxproj -> C:\Users\Roberto Honda\Documents\Visual Studio 2015\Projects\SistemaReservaAssento\Debug\SistemaReservaAssento.pdb (Full PDB)
